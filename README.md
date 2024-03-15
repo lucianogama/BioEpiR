@@ -11,6 +11,6 @@ Bons estudos.
 
 Cordialmente,
 
-Prof. Luciano Gama da Silva Gomes, PhD
-http://lattes.cnpq.br/7975172417665524
+Prof. Luciano Gama da Silva Gomes, PhD <br>
+http://lattes.cnpq.br/7975172417665524 <br>
 https://orcid.org/0000-0002-8996-4513
