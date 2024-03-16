@@ -1,0 +1,11 @@
+sessoes termino
+5 sim
+7 sim
+4 nao
+4 sim
+8 sim
+7 sim
+4 nao
+6 sim
+5 nao
+9 sim
