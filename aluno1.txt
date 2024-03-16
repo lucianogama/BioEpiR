@@ -1,0 +1,6 @@
+id	data	reabili	idade
+FSTE	04/02/2022	"fratura madibular"	26
+HESG	09/02/2022	"torção joelho"	15
+MCTEAF	19/05/2022	"amputação"	74
+LGSG	14/08/2022	"asma"	42
+MAJM	30/09/2022	"distúrbio cardíaco"	68

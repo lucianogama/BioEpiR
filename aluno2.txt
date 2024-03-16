@@ -1,0 +1,6 @@
+id data reabili idade
+ATFG 07/02/2022 "DPOC" 54
+THB 08/02/2022 "escoliose" 26
+NEDGHD 16/04/2022 "pós-cirúrgico mão D" 30
+PHSW 21/05/2022 "COVID-19" 41
+KJSF 27/06/2022 "neuro" 65
