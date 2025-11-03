@@ -6,13 +6,14 @@ Nela você encontrará os bancos de dados que precisam ser baixados (download). 
 Os bancos de dados que não se encontram aqui certamente fazem parte do R base ou outro pacote trabalhado no livro. Então, não precisam ser baixados por aqui.
 Exemplo desses: iris, airquality, ToothGrowth, USArrests, storms, CO2, trial, elas, aSAH, diagnoses, swiss
 <br><br><br>
-Para ter acesso ao livro, copie e cole o link no seu navegador:
-Link da Editora
+Para ter acesso ao livro, clique ou copie e cole o link no seu navegador:
+<br>
+Link da Editora<br>
 https://clubedeautores.com.br/livro/principios-de-bioestatistica-e-epidemiologia
 <br>
-Link da Amazon
+Link da Amazon<br>
 https://www.amazon.com.br/s?k=9786501507170
-<br>
+<br><br>
 Bons estudos!
 
 Cordialmente,
